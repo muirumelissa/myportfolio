@@ -8,16 +8,20 @@ h1{
   text-align:center
 }
 p{
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 h2{
-    color:goldenrod
-    font-style:sans-serif;
-    text-align:center;
+  color:goldenrod
+  font-style:sans-serif;
+  text-align:center;
 }
 h3{
-    color:teal;
-    font-style:italic;
-    font-size:xx-large; 
-
+  color:teal;
+  font-style:italic;
+  font-size:xx-large; 
+}
+ol{
+  color:black;
+  font-family: serif;
+  font-weight: bold;
 }
