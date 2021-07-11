@@ -5,7 +5,8 @@ title{
 h1{
   color:teal;
   font-style:italic;
-  text-align:center
+  text-align:center;
+  image: resolution 100px; ;
 }
 p{
   font-family: sans-serif;
@@ -24,7 +25,4 @@ ol{
   color:black;
   font-family: serif;
   font-weight: bold;
-}
-img{
-  max-width:100%;    
 }
