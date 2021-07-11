@@ -1,9 +1,17 @@
 title{
-    color:teal;
+    color:thistle;
     text-align:center;
 }
 h1{
-  color:thistle;
+  color:teal;
   font-style:italic;
   text-align:center
+}
+p{
+    font-family: sans-serif;
+}
+h2{
+    color:goldenrod
+    font-style:inherit;
+    text-align:center
 }
