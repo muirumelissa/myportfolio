@@ -6,6 +6,7 @@ h1{
   color:teal;
   font-style:italic;
   text-align:center
+  img: myself 300px;
 }
 p{
     font-family: sans-serif;
@@ -16,7 +17,4 @@ h2{
     text-align:center;
     
 
-}
-.img-myself{
-    width: 300px
 }
