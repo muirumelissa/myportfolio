@@ -6,8 +6,10 @@ h1{
   color:teal;
   font-style:italic;
   text-align:center;
-  image: resolution 100px; ;
 }
+img{
+  float:center;
+  }
 p{
   font-family: sans-serif;
 }
